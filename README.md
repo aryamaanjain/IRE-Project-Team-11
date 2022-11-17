@@ -1,4 +1,4 @@
-# IRE-Project-Team-11
+# IRE Project
 Emotion Intensity Prediction Independent of Emotion Labels
 
 
